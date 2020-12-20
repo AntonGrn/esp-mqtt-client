@@ -1,6 +1,4 @@
 # MQTT Client
-Simple template for creating MQTT clients (subsribe and/or publish to topics).
-
-Intended for implementation on ESP8266 (and alike).
+Simple template for creating ESP8266 MQTT clients: Subsribe and/or publish to topics.
 
 Developed for use with [Home Assistant](https://www.home-assistant.io/) (Mosquitto broker).
