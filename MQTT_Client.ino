@@ -1,11 +1,5 @@
-/*
-   Lib: PubSubClient (Arduino client for MQTT)
-   by: Nick ’O Leary
-   src: https://pubsubclient.knolleary.net/api.html 
-*/
-
 #include <ESP8266WiFi.h>
-#include <PubSubClient.h>
+#include <PubSubClient.h> // by Nick ’O Leary (https://pubsubclient.knolleary.net/api.html)
 
 const char* wifi_ssid = "";
 const char* wifi_password = "";
